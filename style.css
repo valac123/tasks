@@ -1,0 +1,23 @@
+h1 {
+	color: blue;
+	text-align: center;
+}
+p {
+	color: gray;
+	font-size: 18px;
+}
+body {
+	background-image:	url('sky.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+a {
+	color: white;
+	background-color: #007BFF;
+	padding: 10px 20px;
+	text-decoration: none;
+	border-radius: 5px;
+}
+a:hover {
+	background-color: #0056b3;
+}
